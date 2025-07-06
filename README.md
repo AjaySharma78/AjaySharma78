@@ -58,9 +58,6 @@ I blend **React + Tailwind** on the front, **Node.js + MongoDB** on the back, an
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 ![Sora](https://img.shields.io/badge/Sora-FF6F61?logo=youtube&logoColor=white)
 ![MONAI](https://img.shields.io/badge/MONAI-4B8BBE?logo=monai&logoColor=white)
-![CheXNet](https://img.shields.io/badge/CheXNet-000000?logo=data&logoColor=white)
-![CLAM](https://img.shields.io/badge/CLAM-000000?logo=data&logoColor=white)
-![BioViL](https://img.shields.io/badge/BioViL-4A4A4A?logo=data&logoColor=white)
 
 #### 📡 Realtime / Bots / Tools
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)
